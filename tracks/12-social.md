@@ -11,6 +11,13 @@ Build shared budgets, programmable rewards, collective ownership and reputation-
 - [Sputnik DAO contract](https://github.com/near-daos/sputnik-dao-contract)
 - [Trezu docs](https://github.com/NEAR-DevHub/trezu-docs)
 - [Trezu repo](https://github.com/NEAR-DevHub/trezu)
+- [near.social](https://near.social/)
+- [near.social agent guide](https://near.social/skill.md)
+- [Top Level Accounts](https://nearaccounts.com/)
+
+## Note
+
+Posts, replies and follows on near.social are writes to the `social` account, and the transaction always shows as failed (CodeDoesNotExist) because the account has no contract. That's expected — the data still lands. Confirm with `GET https://api2.near.social/v1/tx/{tx_hash}`.
 
 ## Prompt
 

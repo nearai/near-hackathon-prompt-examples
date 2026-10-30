@@ -11,6 +11,12 @@ Build NFTs as accounts: assets that own money, earn royalties, hold inventory, a
 - [NEP-171 NFT standard](https://github.com/near/NEPs/blob/master/neps/nep-0171.md)
 - [Access keys](https://docs.near.org/protocol/accounts-contracts/access-keys)
 - [near-smart-contracts agent skill](https://github.com/near/agent-skills/tree/main/skills/near-smart-contracts)
+- [Top Level Accounts contracts](https://github.com/houseofstake/tla-contracts)
+- [Sharded NFT items draft](https://github.com/houseofstake/tla-contracts/blob/main/docs/sharded-nft-items.md)
+
+## Note
+
+In the Top Level Accounts system a rented name is a NEP-171 NFT that is also a real NEAR account the owner runs from any wallet. There's no SDK yet — you build on the contracts directly, which are live and audited on mainnet.
 
 ## Prompt
 

@@ -11,6 +11,11 @@ Build payroll, invoicing, remittances, merchant payments and stablecoin rails fo
 - [1Click API quickstart](https://docs.near-intents.org/integration/distribution-channels/1click-api/quickstart)
 - [Building a meta transaction relayer](https://docs.near.org/web3-apps/tutorials/meta-transactions)
 - [NEP-141 fungible token standard](https://github.com/near/NEPs/blob/master/neps/nep-0141.md)
+- [PingPay Agent Pay facilitator](https://pingpay.gitbook.io/docs/pingpay-api/agent-pay-facilitator)
+
+## Note
+
+PingPay's facilitator lets agents pay an x402 paywall in USDC on Base, settling to your NEAR recipient.
 
 ## Prompt
 

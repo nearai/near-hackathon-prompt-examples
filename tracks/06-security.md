@@ -11,6 +11,7 @@ Build spending limits, policy engines, sandboxed wallets, reputation and scam de
 - [Access keys](https://docs.near.org/protocol/accounts-contracts/access-keys)
 - [OutLayer getting started](https://app.outlayer.ai/docs/getting-started)
 - [NEAR AI Cloud verification](https://docs.near.ai/cloud/verification)
+- [Agent API policies & limits](https://docs.agentsonintents.com/integration/agent-api/policies-and-limits)
 
 ## Prompt
 

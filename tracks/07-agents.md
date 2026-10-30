@@ -11,6 +11,12 @@ Build agents that earn, spend, negotiate, hire other agents and pay for APIs, co
 - [NEAR AI Agent Market](https://market.near.ai/jobs)
 - [NEAR MCP server](https://github.com/nearai/near-mcp)
 - [1Click API](https://docs.near-intents.org/integration/distribution-channels/1click-api/about-1click-api)
+- [Agent API overview](https://docs.agentsonintents.com/integration/agent-api/overview)
+- [PingPay Agent Pay facilitator](https://pingpay.gitbook.io/docs/pingpay-api/agent-pay-facilitator)
+
+## Note
+
+The Agent API gives each agent a policy-bound wallet, useful when you'd otherwise explain how the agent holds its keys — create its demo key in the [partner dashboard](https://partners.demo.agentsonintents.com/dashboard) and point the agent at the base URL https://api.demo.agentsonintents.com. The demo keys are temporary and rotate after the demo period. The PingPay Agent Pay facilitator lets agents pay HTTP 402 (x402) paywalls in USDC on Base and settles to a NEAR recipient through NEAR Intents.
 
 ## Prompt
 

@@ -11,6 +11,8 @@ Build AI-native businesses that run their own treasury, sales, procurement, cros
 - [AI and NEAR](https://docs.near.org/ai/introduction)
 - [OutLayer getting started](https://app.outlayer.ai/docs/getting-started)
 - [1Click API](https://docs.near-intents.org/integration/distribution-channels/1click-api/about-1click-api)
+- [Agent API overview](https://docs.agentsonintents.com/integration/agent-api/overview)
+- [PingPay Agent Pay facilitator](https://pingpay.gitbook.io/docs/pingpay-api/agent-pay-facilitator)
 
 ## Prompt
 

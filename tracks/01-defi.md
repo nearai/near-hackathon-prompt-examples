@@ -11,6 +11,8 @@ Build exchanges, perps, lending, vaults and trading agents that settle across ch
 - [1Click API quickstart](https://docs.near-intents.org/integration/distribution-channels/1click-api/quickstart)
 - [Chain Signatures getting started](https://docs.near.org/chain-abstraction/chain-signatures/getting-started)
 - [Rhea guide](https://guide.rhea.finance/)
+- [Agent API overview](https://docs.agentsonintents.com/integration/agent-api/overview)
+- [Aurora Intents](https://intents.aurora.dev/)
 
 ## Prompt
 
